@@ -1,0 +1,48 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.bello {
+
+  margin-right: 3.5px;
+
+}
+
+.hello {
+
+  margin-right: 3.5px;
+
+}
+
+.centered1 {
+    padding-top: 130px;
+    text-align: center;
+}
+
+p.centered1 {
+
+  padding-top: 30px;
+
+}
+
+.a {
+
+    margin-left: 480px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+
+}
